@@ -2,6 +2,12 @@
 .main{
   width: 860px;
 }
+.main{
+  padding: 20px 29px;
+}
+.main{
+  border-width: 1px;
+}
 .sidebar{
   width: 376px;
 }
